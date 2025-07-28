@@ -31,7 +31,7 @@ assignees: ''
 - Problema 1 / Solución:
 - Problema 2 / Solución:
 
-## 5. Checklist ponderado (1 / 0.5 / 0) – Camino A
+## 5. Checklist ponderado (1 / 0.5 / 0) 
 - Repo accesible con historial de commits propios (2.5): __
 - `.gitignore` presente y correcto (0.5): __
 - Compila sin errores (1): __
