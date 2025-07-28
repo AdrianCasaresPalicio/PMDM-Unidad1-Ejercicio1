@@ -1,9 +1,12 @@
+```markdown
+---
 name: Reflexión Unidad 1 
-about: Reflexiona sobre lo aprendido y marca la checklist de entrega (camino A)
+about: Reflexiona sobre lo aprendido y marca la checklist de entrega 
 title: "Reflexión U1 – <tu nombre>"
 labels: reflection, U1
 assignees: ''
 ---
+
 
 ## 1. Limitaciones de los dispositivos móviles
 - CPU / memoria:
