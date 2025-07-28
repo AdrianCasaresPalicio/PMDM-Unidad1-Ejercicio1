@@ -1,10 +1,10 @@
-**## Descripción**
+## Descripción
 
 **Explica brevemente qué añade/cambia este PR.**
 
 
 
-**## Checklist**
+## Checklist
 
 **- \[ ] Código compila**
 
@@ -16,7 +16,7 @@
 
 
 
-**## Tipo de cambios**
+## Tipo de cambios
 
 **- \[ ] Nueva funcionalidad**
 
@@ -26,9 +26,9 @@
 
 
 
-**## Screenshots / Evidencias (opcional)**
+## Screenshots / Evidencias (opcional)
 
-**## Comentarios para el revisor**
+## Comentarios para el revisor
 
 **- Puntos que quieres que revise con especial atención**
 
