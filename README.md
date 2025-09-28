@@ -21,9 +21,24 @@
 5. Hacer commit y push de los cambios al remoto.
 6. Crear Issue de reflexión y enlazarlo aquí: [Reflexión U1](#)
 ## Limitaciones y tecnologías (resumen)
-- Limitaciones: ...
+- 
+- Limitaciones: Los dispositivos móviles presentan varias limitaciones técnicas que todo desarrollador debe considerar.
+CPU limitada, RAM reducida, almacenamiento restringido y conectividad variable son los principales retos.
+Por ejemplo, una CPU que se calienta demasiado puede ralentizar una app de edición de imágenes.
+Si todo se ejecuta en el hilo principal, esto provoca bloqueos inesperados y frustración en el usuario.
+La batería y la conectividad intermitente también son factores críticos en el diseño de apps.
+Una batería baja limita operaciones intensivas, mientras que una red inestable retrasa la sincronización de datos.
+Para mitigar estos problemas, se pueden agrupar llamadas a la red y usar herramientas como WorkManager.
+Esto permite ejecutar tareas cuando el dispositivo tenga suficiente carga o una conexión estable.
+Respecto a los perfiles de usuario, un repartidor necesita una app confiable offline.
+Debe contar con GPS preciso y notificaciones inmediatas para realizar su trabajo eficientemente.
+En cambio, un estudiante busca una interfaz intuitiva y carga rápida de contenidos.
+Además, requiere bajo consumo de datos, ideal para dispositivos de gama media y uso cotidiano.
+
+
 - Tecnologías: ...
 
+Aquí está mi reflexión: https://github.com/AdrianCasaresPalicio/PMDM-Unidad1-Ejercicio1/issues/1
 ## Comandos Git usados
 
 *(Si usaste el template, probablemente solo hiciste `git add/commit/push`)*
